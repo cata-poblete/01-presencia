@@ -11,10 +11,10 @@
 
 | 🚀 Indicador | 📌 Cifra |
 | :--- | :--- |
-| **Personas en ingeniería y producto** | +150 talentos |
-| **Features lanzados en el último año** | +120 releases |
-| **Países de cobertura** | 5 (y creciendo) |
-| **Productos activos en la plataforma** | +10 módulos core |
+| **Personas en ingeniería y producto** | +450 talentos |
+| **Features lanzados en el último año** | +750 releases |
+| **Países de cobertura** | 5 |
+| **Productos activos en la plataforma** | 16 módulos core |
 
 ---
 **Explora más sobre Buk:** 
