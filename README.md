@@ -2,7 +2,7 @@
 
 Nuestros ingenieros deciden, construyen y son dueños de su impacto. No publicamos vacantes genéricas: describimos el software que vas a operar y la libertad con la que lo vas a diseñar.
 
-<video src="sha256:e5ecebb165df4fdcf3070c61e624b98faac978dae64527016a7c6792ac09c484" controls width="100%"></video>
+<video src="[sha256:e5ecebb165df4fdcf3070c61e624b98faac978dae64527016a7c6792ac09c484](https://github.com/cata-poblete/01-presencia/releases/download/v1.0/video-engineering-personas-1_QeCVEiMA.mp4)" controls width="100%"></video>
 
 ## La escala en cuatro números
 
